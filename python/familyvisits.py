@@ -1,4 +1,5 @@
-# TLE RIP working solutions get to 700 lines
+# TLE RIP working solutions get to 700 characters
+
 import sys
 sys.setrecursionlimit(1000000)
 

@@ -1,6 +1,9 @@
 # mfshi03 Kattis Problems
 
-Problems I have solved on [Kattis](https://open.kattis.com) for VT-ICPC
+Problems I have solved on [Kattis](https://open.kattis.com) for VT-ICPC.
+Make sure to check this only if you have no furthur ideas. 
+"The ideal problem is the problem you can barely solve given an infinite amount of time"
+    - Walden Yan (IOI Gold Medalist)
 ### Problem Difficulty
 ![](plot.png)
 <table>
@@ -13,7 +16,7 @@ Problems I have solved on [Kattis](https://open.kattis.com) for VT-ICPC
 
 <tr>
 <td>10 Kinds of People</td>
-<td>4.0</td>
+<td>3.9</td>
 <td>https://open.kattis.com/problems/10kindsofpeople</td>
 </tr>
 
@@ -121,7 +124,7 @@ Problems I have solved on [Kattis](https://open.kattis.com) for VT-ICPC
 
 <tr>
 <td>Contest Advancement</td>
-<td>4.8</td>
+<td>4.5</td>
 <td>https://open.kattis.com/problems/contestadvancement</td>
 </tr>
 
@@ -139,7 +142,7 @@ Problems I have solved on [Kattis](https://open.kattis.com) for VT-ICPC
 
 <tr>
 <td>Dunglish</td>
-<td>2.7</td>
+<td>2.8</td>
 <td>https://open.kattis.com/problems/dunglish</td>
 </tr>
 
@@ -181,13 +184,13 @@ Problems I have solved on [Kattis](https://open.kattis.com) for VT-ICPC
 
 <tr>
 <td>Hot Hike</td>
-<td>2.0</td>
+<td>2.1</td>
 <td>https://open.kattis.com/problems/hothike</td>
 </tr>
 
 <tr>
 <td>ICPC Team Generation</td>
-<td>5.1</td>
+<td>4.8</td>
 <td>https://open.kattis.com/problems/icpcteamgeneration</td>
 </tr>
 
@@ -235,7 +238,7 @@ Problems I have solved on [Kattis](https://open.kattis.com) for VT-ICPC
 
 <tr>
 <td>Magnesium Supplementation</td>
-<td>5.6</td>
+<td>5.4</td>
 <td>https://open.kattis.com/problems/magnesiumsupplementation</td>
 </tr>
 
@@ -255,6 +258,12 @@ Problems I have solved on [Kattis](https://open.kattis.com) for VT-ICPC
 <td>Metronome</td>
 <td>1.2</td>
 <td>https://open.kattis.com/problems/metronome</td>
+</tr>
+
+<tr>
+<td>Missing Number</td>
+<td>6.9</td>
+<td>https://open.kattis.com/problems/missingnumber2</td>
 </tr>
 
 <tr>
@@ -433,6 +442,6 @@ Problems I have solved on [Kattis](https://open.kattis.com) for VT-ICPC
 
 <tr>
 <td>What does the fox say?</td>
-<td>2.4</td>
+<td>2.5</td>
 <td>https://open.kattis.com/problems/whatdoesthefoxsay</td>
 </tr>

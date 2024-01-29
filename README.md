@@ -1,8 +1,12 @@
 # mfshi03 Kattis Problems
 
 Problems I have solved on [Kattis](https://open.kattis.com) for VT-ICPC.
-- Make sure to check this only if you have no furthur ideas.
-- "The ideal problem is the problem you can barely solve given an infinite amount of time" - Walden Yan (IOI Gold Medalist)
+
+Make sure to check this only if you have no furthur ideas.
+
+"The ideal problem is the problem you can barely solve given an infinite amount of time"
+
+- Walden Yan (IOI Gold Medalist)
 ### Problem Difficulty
 ![](plot.png)
 <table>
@@ -161,6 +165,12 @@ Problems I have solved on [Kattis](https://open.kattis.com) for VT-ICPC.
 <td>Eye of Sauron</td>
 <td>1.5</td>
 <td>https://open.kattis.com/problems/eyeofsauron</td>
+</tr>
+
+<tr>
+<td>Fading Wind</td>
+<td>1.5</td>
+<td>https://open.kattis.com/problems/fadingwind</td>
 </tr>
 
 <tr>
@@ -371,6 +381,12 @@ Problems I have solved on [Kattis](https://open.kattis.com) for VT-ICPC.
 <td>Stopwatch</td>
 <td>1.6</td>
 <td>https://open.kattis.com/problems/stopwatch</td>
+</tr>
+
+<tr>
+<td>Streets Ahead</td>
+<td>2.1</td>
+<td>https://open.kattis.com/problems/streetsahead</td>
 </tr>
 
 <tr>

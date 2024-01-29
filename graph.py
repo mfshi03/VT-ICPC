@@ -10,7 +10,7 @@ desc = """
 Problems I have solved on [Kattis](https://open.kattis.com) for VT-ICPC.\n
 Make sure to check this only if you have no furthur ideas.\n
 "The ideal problem is the problem you can barely solve given an infinite amount of time"\n
-\t\t- Walden Yan (IOI Gold Medalist)
+- Walden Yan (IOI Gold Medalist)
 """
 
 table = """

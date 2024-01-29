@@ -1,7 +1,7 @@
 # mfshi03 Kattis Problems
 
-Problems I have solved on [Kattis](https://open.kattis.com) for VT-ICPC.\n
-- Make sure to check this only if you have no furthur ideas.\n
+Problems I have solved on [Kattis](https://open.kattis.com) for VT-ICPC.
+- Make sure to check this only if you have no furthur ideas.
 - "The ideal problem is the problem you can barely solve given an infinite amount of time" - Walden Yan (IOI Gold Medalist)
 ### Problem Difficulty
 ![](plot.png)

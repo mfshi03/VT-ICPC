@@ -4,7 +4,7 @@ while t > 0:
     num = input()
     res = []
     for i in range(1, min(len(num), 5) + 1):
-        curr = num[0:i]
+        curr = num[:i]
         first = int(curr)
         v = int(curr)
         skips = 0
@@ -24,16 +24,16 @@ while t > 0:
             if ind >= len(num):
                 if skips == 1 and skipv != v:
                     if 0 < skipv < 100000:
-                        res.append(str(skipv))
+                        res.append(skipv)
                 else:
                     if 0 < first - 1 < 100000:
-                        res.append(str(first - 1))
+                        res.append(first - 1)
                     if skipv == -1:
                         if 0 < v + 1 < 100000:
-                            res.append(str(v + 1))
+                            res.append(v + 1)
                     else:
                         if 0 < skipv < 100000:
-                            res.append(str(skipv))
+                            res.append(skipv)
                 break
             
             if skips == 2:

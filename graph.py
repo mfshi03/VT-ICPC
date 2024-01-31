@@ -12,6 +12,7 @@ Make sure to check this only if you have no furthur ideas.\n
 > [!TIP]
 >
 > "The ideal problem is the problem you can barely solve given an infinite amount of time"
+>
 > - Walden Yan (IOI Gold Medalist)
 """
 

@@ -4,9 +4,9 @@ Problems I have solved on [Kattis](https://open.kattis.com) for VT-ICPC.
 
 Make sure to check this only if you have no furthur ideas.
 
-"The ideal problem is the problem you can barely solve given an infinite amount of time"
+> "The ideal problem is the problem you can barely solve given an infinite amount of time"
 
-- Walden Yan (IOI Gold Medalist)
+> - Walden Yan (IOI Gold Medalist)
 ### Problem Difficulty
 ![](plot.png)
 <table>

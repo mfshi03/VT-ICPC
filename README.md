@@ -9,7 +9,6 @@ Make sure to check this only if you have no furthur ideas.
 > "The ideal problem is the problem you can barely solve given an infinite amount of time"
 >
 > - Walden Yan (IOI Gold Medalist)
-
 ### Problem Difficulty
 ![](plot.png)
 <table>
@@ -40,25 +39,25 @@ Make sure to check this only if you have no furthur ideas.
 
 <tr>
 <td>Abstract Art</td>
-<td>6.4</td>
+<td>6.7</td>
 <td>https://open.kattis.com/problems/abstractart</td>
 </tr>
 
 <tr>
 <td>The Calculus of Ada</td>
-<td>2.5</td>
+<td>2.4</td>
 <td>https://open.kattis.com/problems/ada</td>
 </tr>
 
 <tr>
 <td>Alphabet Animals</td>
-<td>4.4</td>
+<td>4.2</td>
 <td>https://open.kattis.com/problems/alphabetanimals</td>
 </tr>
 
 <tr>
 <td>Falling Apples</td>
-<td>3.5</td>
+<td>3.2</td>
 <td>https://open.kattis.com/problems/apples</td>
 </tr>
 
@@ -70,13 +69,13 @@ Make sure to check this only if you have no furthur ideas.
 
 <tr>
 <td>Beast Bullies</td>
-<td>6.0</td>
+<td>6.1</td>
 <td>https://open.kattis.com/problems/beastbullies</td>
 </tr>
 
 <tr>
 <td>Letter Optimization</td>
-<td>5.1</td>
+<td>5.0</td>
 <td>https://open.kattis.com/problems/brevoptimering</td>
 </tr>
 
@@ -118,7 +117,7 @@ Make sure to check this only if you have no furthur ideas.
 
 <tr>
 <td>Common Factors</td>
-<td>5.0</td>
+<td>4.9</td>
 <td>https://open.kattis.com/problems/commonfactors</td>
 </tr>
 
@@ -130,7 +129,7 @@ Make sure to check this only if you have no furthur ideas.
 
 <tr>
 <td>Contest Advancement</td>
-<td>4.5</td>
+<td>4.4</td>
 <td>https://open.kattis.com/problems/contestadvancement</td>
 </tr>
 
@@ -142,7 +141,7 @@ Make sure to check this only if you have no furthur ideas.
 
 <tr>
 <td>Distance</td>
-<td>3.9</td>
+<td>4.0</td>
 <td>https://open.kattis.com/problems/distance</td>
 </tr>
 
@@ -202,7 +201,7 @@ Make sure to check this only if you have no furthur ideas.
 
 <tr>
 <td>ICPC Team Generation</td>
-<td>4.8</td>
+<td>5.0</td>
 <td>https://open.kattis.com/problems/icpcteamgeneration</td>
 </tr>
 
@@ -214,7 +213,7 @@ Make sure to check this only if you have no furthur ideas.
 
 <tr>
 <td>Integer Division</td>
-<td>3.7</td>
+<td>3.6</td>
 <td>https://open.kattis.com/problems/integerdivision</td>
 </tr>
 
@@ -238,7 +237,7 @@ Make sure to check this only if you have no furthur ideas.
 
 <tr>
 <td>Land Equality</td>
-<td>5.4</td>
+<td>5.5</td>
 <td>https://open.kattis.com/problems/landequality</td>
 </tr>
 
@@ -250,13 +249,13 @@ Make sure to check this only if you have no furthur ideas.
 
 <tr>
 <td>Magnesium Supplementation</td>
-<td>5.4</td>
+<td>5.0</td>
 <td>https://open.kattis.com/problems/magnesiumsupplementation</td>
 </tr>
 
 <tr>
 <td>Math Homework</td>
-<td>1.9</td>
+<td>2.0</td>
 <td>https://open.kattis.com/problems/mathhomework</td>
 </tr>
 
@@ -268,13 +267,13 @@ Make sure to check this only if you have no furthur ideas.
 
 <tr>
 <td>Metronome</td>
-<td>1.2</td>
+<td>1.1</td>
 <td>https://open.kattis.com/problems/metronome</td>
 </tr>
 
 <tr>
 <td>Missing Number</td>
-<td>6.9</td>
+<td>6.8</td>
 <td>https://open.kattis.com/problems/missingnumber2</td>
 </tr>
 
@@ -286,7 +285,7 @@ Make sure to check this only if you have no furthur ideas.
 
 <tr>
 <td>Mult!</td>
-<td>2.1</td>
+<td>2.0</td>
 <td>https://open.kattis.com/problems/mult</td>
 </tr>
 
@@ -298,14 +297,20 @@ Make sure to check this only if you have no furthur ideas.
 
 <tr>
 <td>Nine Knights</td>
-<td>2.2</td>
+<td>2.1</td>
 <td>https://open.kattis.com/problems/nineknights</td>
 </tr>
 
 <tr>
 <td>No Duplicates</td>
-<td>1.5</td>
+<td>1.6</td>
 <td>https://open.kattis.com/problems/nodup</td>
+</tr>
+
+<tr>
+<td>Noonerized Spumbers</td>
+<td>2.7</td>
+<td>https://open.kattis.com/problems/noonerizedspumbers</td>
 </tr>
 
 <tr>
@@ -346,7 +351,7 @@ Make sure to check this only if you have no furthur ideas.
 
 <tr>
 <td>Red Rover</td>
-<td>2.0</td>
+<td>1.9</td>
 <td>https://open.kattis.com/problems/redrover</td>
 </tr>
 
@@ -364,7 +369,7 @@ Make sure to check this only if you have no furthur ideas.
 
 <tr>
 <td>0-1 Sequences</td>
-<td>5.8</td>
+<td>6.0</td>
 <td>https://open.kattis.com/problems/sequences</td>
 </tr>
 
@@ -372,6 +377,12 @@ Make sure to check this only if you have no furthur ideas.
 <td>Smallest Calculated Value</td>
 <td>3.0</td>
 <td>https://open.kattis.com/problems/smallestcalculatedvalue</td>
+</tr>
+
+<tr>
+<td>Statues</td>
+<td>2.8</td>
+<td>https://open.kattis.com/problems/statues</td>
 </tr>
 
 <tr>
@@ -394,7 +405,7 @@ Make sure to check this only if you have no furthur ideas.
 
 <tr>
 <td>T9 Spelling</td>
-<td>1.9</td>
+<td>1.7</td>
 <td>https://open.kattis.com/problems/t9spelling</td>
 </tr>
 
@@ -424,7 +435,7 @@ Make sure to check this only if you have no furthur ideas.
 
 <tr>
 <td>Triangle Area</td>
-<td>1.4</td>
+<td>1.3</td>
 <td>https://open.kattis.com/problems/triarea</td>
 </tr>
 
@@ -436,7 +447,7 @@ Make sure to check this only if you have no furthur ideas.
 
 <tr>
 <td>Two-sum</td>
-<td>1.3</td>
+<td>1.4</td>
 <td>https://open.kattis.com/problems/twosum</td>
 </tr>
 
@@ -454,12 +465,12 @@ Make sure to check this only if you have no furthur ideas.
 
 <tr>
 <td>Water Journal</td>
-<td>1.7</td>
+<td>1.8</td>
 <td>https://open.kattis.com/problems/waterjournal</td>
 </tr>
 
 <tr>
 <td>What does the fox say?</td>
-<td>2.5</td>
+<td>2.4</td>
 <td>https://open.kattis.com/problems/whatdoesthefoxsay</td>
 </tr>

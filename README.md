@@ -27,13 +27,13 @@ Make sure to check this only if you have no furthur ideas.
 
 <tr>
 <td>3D Printed Statues</td>
-<td>2.8</td>
+<td>2.9</td>
 <td>https://open.kattis.com/problems/3dprinter</td>
 </tr>
 
 <tr>
 <td>Abandoned Animal</td>
-<td>5.3</td>
+<td>5.4</td>
 <td>https://open.kattis.com/problems/abandonedanimal</td>
 </tr>
 
@@ -81,7 +81,7 @@ Make sure to check this only if you have no furthur ideas.
 
 <tr>
 <td>Bus</td>
-<td>1.7</td>
+<td>1.8</td>
 <td>https://open.kattis.com/problems/bus</td>
 </tr>
 
@@ -95,6 +95,12 @@ Make sure to check this only if you have no furthur ideas.
 <td>Chess</td>
 <td>3.1</td>
 <td>https://open.kattis.com/problems/chess</td>
+</tr>
+
+<tr>
+<td>Chocolate Chip Fabrication</td>
+<td>5.8</td>
+<td>https://open.kattis.com/problems/chocolatechipfabrication</td>
 </tr>
 
 <tr>
@@ -117,7 +123,7 @@ Make sure to check this only if you have no furthur ideas.
 
 <tr>
 <td>Common Factors</td>
-<td>4.9</td>
+<td>5.0</td>
 <td>https://open.kattis.com/problems/commonfactors</td>
 </tr>
 
@@ -129,8 +135,14 @@ Make sure to check this only if you have no furthur ideas.
 
 <tr>
 <td>Contest Advancement</td>
-<td>4.4</td>
+<td>4.5</td>
 <td>https://open.kattis.com/problems/contestadvancement</td>
+</tr>
+
+<tr>
+<td>Count the Vowels</td>
+<td>1.3</td>
+<td>https://open.kattis.com/problems/countthevowels</td>
 </tr>
 
 <tr>
@@ -153,7 +165,7 @@ Make sure to check this only if you have no furthur ideas.
 
 <tr>
 <td>Eeny Meeny</td>
-<td>1.9</td>
+<td>2.0</td>
 <td>https://open.kattis.com/problems/eenymeeny</td>
 </tr>
 
@@ -177,7 +189,7 @@ Make sure to check this only if you have no furthur ideas.
 
 <tr>
 <td>Family Visits</td>
-<td>6.6</td>
+<td>6.5</td>
 <td>https://open.kattis.com/problems/familyvisits</td>
 </tr>
 
@@ -195,13 +207,13 @@ Make sure to check this only if you have no furthur ideas.
 
 <tr>
 <td>Hot Hike</td>
-<td>2.1</td>
+<td>2.0</td>
 <td>https://open.kattis.com/problems/hothike</td>
 </tr>
 
 <tr>
 <td>ICPC Team Generation</td>
-<td>5.0</td>
+<td>5.1</td>
 <td>https://open.kattis.com/problems/icpcteamgeneration</td>
 </tr>
 
@@ -219,8 +231,14 @@ Make sure to check this only if you have no furthur ideas.
 
 <tr>
 <td>Is Y a Vowel?</td>
-<td>1.2</td>
+<td>1.3</td>
 <td>https://open.kattis.com/problems/isyavowel</td>
+</tr>
+
+<tr>
+<td>Item Selection</td>
+<td>7.3</td>
+<td>https://open.kattis.com/problems/itemselection</td>
 </tr>
 
 <tr>
@@ -237,7 +255,7 @@ Make sure to check this only if you have no furthur ideas.
 
 <tr>
 <td>Land Equality</td>
-<td>5.5</td>
+<td>5.4</td>
 <td>https://open.kattis.com/problems/landequality</td>
 </tr>
 
@@ -249,13 +267,13 @@ Make sure to check this only if you have no furthur ideas.
 
 <tr>
 <td>Magnesium Supplementation</td>
-<td>5.0</td>
+<td>5.1</td>
 <td>https://open.kattis.com/problems/magnesiumsupplementation</td>
 </tr>
 
 <tr>
 <td>Math Homework</td>
-<td>2.0</td>
+<td>1.9</td>
 <td>https://open.kattis.com/problems/mathhomework</td>
 </tr>
 
@@ -267,13 +285,13 @@ Make sure to check this only if you have no furthur ideas.
 
 <tr>
 <td>Metronome</td>
-<td>1.1</td>
+<td>1.2</td>
 <td>https://open.kattis.com/problems/metronome</td>
 </tr>
 
 <tr>
 <td>Missing Number</td>
-<td>6.8</td>
+<td>6.9</td>
 <td>https://open.kattis.com/problems/missingnumber2</td>
 </tr>
 
@@ -350,8 +368,14 @@ Make sure to check this only if you have no furthur ideas.
 </tr>
 
 <tr>
+<td>Rectangle Area</td>
+<td>1.4</td>
+<td>https://open.kattis.com/problems/rectanglearea</td>
+</tr>
+
+<tr>
 <td>Red Rover</td>
-<td>1.9</td>
+<td>2.0</td>
 <td>https://open.kattis.com/problems/redrover</td>
 </tr>
 
@@ -471,6 +495,12 @@ Make sure to check this only if you have no furthur ideas.
 
 <tr>
 <td>What does the fox say?</td>
-<td>2.4</td>
+<td>2.2</td>
 <td>https://open.kattis.com/problems/whatdoesthefoxsay</td>
+</tr>
+
+<tr>
+<td>Which is Greater?</td>
+<td>1.2</td>
+<td>https://open.kattis.com/problems/whichisgreater</td>
 </tr>

@@ -2,8 +2,6 @@
 
 Problems I have solved on [Kattis](https://open.kattis.com) for VT-ICPC.
 
-Make sure to check this only if you have no furthur ideas.
-
 > [!TIP]
 >
 > "The ideal problem is the problem you can barely solve given an infinite amount of time"
